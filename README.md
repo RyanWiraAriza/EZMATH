@@ -1,6 +1,6 @@
 # easymath
 
-A new Flutter project. Just take the dart code in lib and import to your own project with the specified yaml below too. Some files here are too large for basic github like easymath\build\app folder
+A new Flutter project. Just take the dart code in lib and import to your own new flutter project with the specified yaml below too and dont forget to update pub get yaml to update the missing files . Some files here are too large for basic github like easymath\build\app folder
 
 ## Getting Started
 
