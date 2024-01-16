@@ -4,13 +4,18 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+My pubspec.yaml:
+  cupertino_icons: ^1.0.2
+  smooth_page_indicator: ^1.0.0
+  lottie: ^1.2.1
+  hidden_drawer_menu: ^3.0.1
+  firebase_auth: ^4.15.3
+  firebase_core: ^2.24.2
+  google_fonts:
+  dash_chat_2: ^0.0.18
+  chat_gpt_sdk: ^2.2.5
+  cloud_firestore: ^4.13.6
+  math_expressions: ^2.4.0
+  provider: ^6.1.1
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+REMEMBER: to use your own OpenAPI secret Key in https://platform.openai.com/api-keys then input it to the const.dart file for GPT to work
